@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![logo](assests/lo) Vector J
+# ![logo](assests/logo.png) Vector J
 
 Empowering students to discover hackathons, build meaningful connections, collaborate on projects, and grow their careers through a unified platform.
 
