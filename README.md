@@ -1,6 +1,8 @@
 <div align="center">
+  
+<img src="assets/logo.png" alt="VectorJ Logo" width="80"/>
 
-# ![logo](assests/logo.png) Vector J
+# VectorJ
 
 Empowering students to discover hackathons, build meaningful connections, collaborate on projects, and grow their careers through a unified platform.
 
@@ -11,13 +13,20 @@ Empowering students to discover hackathons, build meaningful connections, collab
 ![Redux Toolkit](https://img.shields.io/badge/RTK_Query-2.9-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![License](https://img.shields.io/badge/License-ISC-blue?style=flat-square)
-
-[Live →](https://vectorj.in) · [Report Bug](https://github.com/your-org/vectorj/issues) · [Request Feature](https://github.com/your-org/vectorj/issues)
 
 </div>
 
 ---
+
+## 🎉 It's Live 
+
+[![Live Platform](https://img.shields.io/badge/Visit-VectorJ-06B6D4?style=for-the-badge)](https://vectorj.in)
+
+<p align="center">
+  <img src="assets/vectorj.gif" width="100%" alt="VectorJ Demo">
+</p>
+
+> 🚀 Live Platform: https://vectorj.in
 
 ## Overview
 
@@ -26,12 +35,6 @@ VectorJ is a student-centric platform built to help aspiring developers discover
 Students often rely on multiple disconnected tools for networking, hackathon participation, project collaboration, learning resources, and career development. VectorJ brings these experiences together into a single ecosystem where students can connect with like-minded individuals, participate in hackathons, manage projects, share knowledge, and showcase their achievements.
 
 The platform also enables organizations, communities, and educational institutions to engage with students through events, challenges, and collaborative initiatives, creating a bridge between talent and opportunity.
-
----
-
-## Demo
-
-> Demo assets not found in codebase.
 
 ---
 
@@ -120,7 +123,7 @@ Communities looking to foster collaboration, knowledge sharing, networking, and 
 
 ## My Role
 
-As the primary developer and architect behind VectorJ, I was responsible for the end-to-end design, development, and evolution of the platform.
+As the creator of VectorJ, I was responsible for the end-to-end design, development, deployment, and continuous evolution of the platform.
 
 ### Responsibilities
 
