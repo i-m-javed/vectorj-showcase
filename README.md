@@ -27,8 +27,6 @@ Students often rely on multiple disconnected tools for networking, hackathon par
 
 The platform also enables organizations, communities, and educational institutions to engage with students through events, challenges, and collaborative initiatives, creating a bridge between talent and opportunity.
 
-The platform runs at [vectorj.in](https://vectorj.in) with a React SPA deployed on Vercel and an Express API backed by MongoDB Atlas.
-
 ---
 
 ## Demo
@@ -138,6 +136,13 @@ As the primary developer and architect behind VectorJ, I was responsible for the
 * Deployment, monitoring, and ongoing platform maintenance
 
 VectorJ is being actively developed with a strong focus on creating a unified ecosystem for student networking, hackathons, collaboration, and professional growth.
+
+## Project Status
+
+🚀 Active Development
+
+VectorJ is actively evolving with new features, platform enhancements, and community-focused improvements aimed at supporting students, institutions, and event organizers.
+
 
 ## Note
 
